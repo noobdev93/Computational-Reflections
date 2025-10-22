@@ -1,6 +1,3 @@
-# Computational-Reflections
-Documentation of my self-directed software engineering learning journey. I used ChatGPT to create a comprehensive curriculum to work through at my own pace.
-
 # 🧠 Adaptive Learning Curriculum: Python Foundations through Cognitive Philosophy
 
 A multi-phase curriculum blending **Python programming**, **logic and computation**, and **philosophy of mind and technology** — designed for learners who value both technical fluency and reflective understanding.
@@ -18,29 +15,54 @@ This curriculum approaches programming as both a **technical practice** and a **
 
 ---
 
+## 🌱 Phase 0 – Computational Intuition & Conceptual Grounding
+
+> Before learning to code, learn to *see like a computer* and *reflect like a philosopher*.
+
+**Goals:**
+- Build mental models of computation and information flow.
+- Understand the computer as a philosophical object — a medium of thought.
+- Cultivate comfort with the command line, file systems, and structured thinking.
+
+**Topics:**
+- What is computation? The philosophy of information.
+- How computers represent knowledge.
+- Feedback loops, input/output, and transformation.
+- The craft of code: parallels between making, attention, and care.
+
+**Resources:**
+- Bret Victor – *Learnable Programming*
+- Matthew Crawford – *Shop Class as Soulcraft*
+- CS50 Week 0 – *What is Computer Science?*
+- Replit or Thonny IDE for interactive experimentation.
+
+**Project:**
+- Write a short reflection titled “How I Think a Computer Thinks.”
+
+---
+
 ## 🧩 Phase 1 – Foundations of Programming and Computational Thinking
 
 > Learn to think like a computer *and* a philosopher.
 
 **Goals:**
 - Understand the terminal, syntax, and core logic structures.
-- Build mental models of how computers process information.
-- Develop reflective awareness of problem-solving and error.
+- Build habits of precision, experimentation, and reflection.
+- Develop awareness of how debugging mirrors philosophical inquiry.
 
 **Topics:**
-- What is a computer? What is computation?
-- The Terminal and the Mind – learning to interact with systems.
 - Variables, Data Types, and Operators
 - Control Flow: `if`, `else`, `for`, and `while`
-- Debugging as Philosophical Practice (error and uncertainty)
+- The Terminal as Dialogue
+- Debugging and the Philosophy of Error
 
 **Resources:**
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [CS50’s Introduction to Computer Science (Harvard)](https://cs50.harvard.edu/x/)
-- Video: *John Vervaeke on Relevance Realization* – understanding cognition and system mapping.
+- [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/)
+- John Vervaeke – *Relevance Realization*
 
 **Project:**
-- Create a terminal-based interactive story or simulation reflecting on *decision, consequence, and uncertainty*.
+- Create a terminal-based interactive story exploring *choice, consequence, and uncertainty*.
 
 ---
 
@@ -50,91 +72,91 @@ This curriculum approaches programming as both a **technical practice** and a **
 
 **Goals:**
 - Learn to organize and structure data.
-- Develop abstraction skills through classes, functions, and modular design.
-- Reflect on the cognitive parallels between code structure and mental structure.
+- Practice abstraction through functions, classes, and modularity.
+- Reflect on how abstraction shapes thought and ethics.
 
 **Topics:**
 - Functions, Arguments, and Scope
-- Lists, Tuples, Dictionaries, and Sets
-- Classes, Objects, and Abstraction
-- Intro to Files and Data Persistence
-- Philosophical Concept: *Abstraction as Epistemology* – parallels between code and thought.
+- Lists, Dictionaries, and Sets
+- Object-Oriented Programming
+- Files, Data, and Persistence
+- Concept: *Abstraction as Epistemology*
 
 **Resources:**
-- [Python OOP Crash Course](https://realpython.com/python3-object-oriented-programming/)
 - [Think Python](https://greenteapress.com/wp/think-python-2e/)
-- [Shusterman – Somaesthetics and Embodied Knowing](https://philpapers.org/rec/SHUSAA)
+- [Real Python OOP Guide](https://realpython.com/python3-object-oriented-programming/)
+- Shusterman – *Somaesthetics and Embodied Knowing*
 
 **Project:**
-- Build a small personal “data ontology” program: represent concepts like *beliefs*, *habits*, or *actions* as objects with properties and interactions.
+- Build a simple ontology program modeling *beliefs*, *habits*, or *virtues* as objects with properties.
 
 ---
 
 ## 🧮 Phase 3 – Logic, Computation, and Cognitive Modeling
 
-> Explore the intersection of reasoning, cognition, and computation.
+> Explore reasoning, learning, and error as intertwined processes.
 
 **Goals:**
-- Connect programming logic with philosophical logic and reasoning.
-- Learn about computation as a model of thought.
-- Explore uncertainty, probabilistic reasoning, and cognitive constraints.
+- Connect programming logic with philosophical reasoning.
+- Examine computation as a model of cognition.
+- Learn to code systems that adapt through feedback and error.
 
 **Topics:**
 - Boolean Logic and Predicate Reasoning
 - Algorithms and Complexity (conceptually)
-- Introduction to Recursion
-- Probability and Randomness in Systems
-- Concept: *Error as Information* – the pragmatist philosophy of failure.
+- Recursion and Self-Reference
+- Probability and Randomness
+- Concept: *Error as Information*
 
 **Resources:**
-- [How to Think Like a Computer Scientist](https://openbookproject.net/thinkcs/python/english3e/)
-- [MIT OCW: Introduction to Computational Thinking](https://ocw.mit.edu/)
-- Vervaeke & Peterson lectures on **Meaning and Uncertainty**
+- [MIT OCW: Computational Thinking](https://ocw.mit.edu/)
+- Peirce & Dewey – *Fallibilism and Inquiry*
+- Andy Clark – *Surfing Uncertainty*
 
 **Project:**
-- Write a program that simulates a simplified cognitive process (e.g., decision under uncertainty, moral dilemma simulation, or learning from error).
+- Build a “Learning Through Error” simulator — a program that models cognitive adaptation.
 
 ---
 
 ## 🔍 Phase 4 – Aesthetics, Systems, and Embodiment
 
-> Integrate somaesthetics, design thinking, and human-computer interaction.
+> Bring the body, beauty, and system design into dialogue.
 
 **Goals:**
-- Understand the relationship between perception, cognition, and computation.
-- Explore aesthetics and ethics in interaction design.
-- Experiment with code as creative practice.
+- Integrate design, perception, and system ethics.
+- Explore embodied cognition and interface aesthetics.
+- Treat code as creative and ethical expression.
 
 **Topics:**
-- Human-Computer Interaction (HCI) fundamentals
-- Introduction to Aesthetic Computing
-- Embodied Cognition and Interface Design
+- Human-Computer Interaction (HCI)
+- Aesthetic Computing and Visualization
+- Embodied Cognition and Experience Design
 - Concept: *The Body as a Site of Knowing*
 
 **Resources:**
-- Shusterman – *Body Consciousness: A Philosophy of Mindfulness and Somaesthetics*
+- Shusterman – *Body Consciousness*
 - Bret Victor – *Inventing on Principle*
 - [Processing (Python mode)](https://py.processing.org/)
 
 **Project:**
-- Create an interactive artwork or visualization representing the relationship between **error**, **perception**, and **learning**.
+- Create an interactive visualization that represents **learning through feedback** or **error transformation**.
 
 ---
 
-## 🧠 Phase 5 – Integration and Reflection
+## 🧠 Phase 5 – Integration, Reflection, and Philosophy of Code
 
-> Unite technical skill and philosophical insight into a living philosophy of code.
+> Unite technical skill and philosophical depth into a lived practice.
 
 **Goals:**
-- Synthesize knowledge from previous phases.
-- Articulate a personal philosophy of learning and programming.
-- Reflect on the relationship between systems, self, and world.
+- Synthesize knowledge from all phases.
+- Articulate a personal philosophy of computation.
+- Reflect on ethics, embodiment, and creativity in system design.
 
 **Topics:**
-- Philosophical Reflection: What does it mean to *know* computationally?
 - Process Philosophy and Adaptive Systems
-- Error, Growth, and Ethical Computation
-- Designing Learning Systems and Philosophical Tools
+- Pragmatism and the Growth of Meaning
+- The Ethics of Automation
+- Philosophical Reflection: *Knowing Computationally*
 
 **Resources:**
 - Whitehead – *Process and Reality* (excerpts)
@@ -143,7 +165,23 @@ This curriculum approaches programming as both a **technical practice** and a **
 - Vervaeke – *Awakening from the Meaning Crisis*
 
 **Final Project:**
-- Write a reflective essay or build an interactive “Philosophy of Life” simulator — a program that models **ethical decision-making**, **uncertainty**, or **learning through feedback**.
+- Write a reflective essay or build an interactive simulator modeling **ethical decision-making** and **learning through uncertainty**.
+
+---
+
+## 🪞 Reflection and Practice Log
+
+> Philosophy becomes real when practiced.
+
+Throughout all phases, maintain a `/reflections` folder in your repo containing:
+- Weekly **Reflection Logs** (e.g., “What debugging taught me about humility.”)
+- Short **Philosophical Essays** on coding concepts.
+- Notes connecting cognitive science and embodiment to programming challenges.
+
+**Prompts:**
+- “What does debugging teach about error as self-knowledge?”
+- “When I automate a process, what human judgment am I encoding?”
+- “Is abstraction a form of distance from reality, or a way of seeing it more clearly?”
 
 ---
 
@@ -151,7 +189,8 @@ This curriculum approaches programming as both a **technical practice** and a **
 
 | Phase | Focus | Status |
 |-------|--------|--------|
-| 🧩 1 | Foundations of Programming | 🔵 In Progress |
+| 🌱 0 | Computational Intuition | 🔵 In Progress |
+| 🧩 1 | Foundations of Programming | ⚪ Not Started |
 | ⚙️ 2 | Data & Abstraction | ⚪ Not Started |
 | 🧮 3 | Logic & Cognitive Modeling | ⚪ Not Started |
 | 🔍 4 | Aesthetics & Embodiment | ⚪ Not Started |
@@ -175,16 +214,15 @@ pip install jupyter black pylint
 
 ---
 
-## 🌐 Guiding Philosophers
+## 🌐 Guiding Philosophers & Cognitive Frameworks
 
-This curriculum draws inspiration from:
-
-- **Pragmatism:** William James, John Dewey
-- **Somaesthetics:** Richard Shusterman
-- **Philosophy as a Way of Life:** Pierre Hadot
-- **Meaning & Cognition:** John Vervaeke, Jordan Peterson
-- **Process Thought:** Alfred North Whitehead
-- **Embodied Mind:** Maurice Merleau-Ponty, Evan Thompson
+| Domain | Key Thinkers |
+|---------|---------------|
+| Pragmatism & Process | William James, John Dewey, Alfred North Whitehead |
+| Embodiment & Aesthetics | Richard Shusterman, Maurice Merleau-Ponty |
+| Cognitive Science | Andy Clark, Evan Thompson, Francisco Varela |
+| Philosophy of Technology | Don Ihde, Philip Agre, Hubert Dreyfus |
+| Meaning & Ethics | John Vervaeke, Jordan Peterson, Pierre Hadot |
 
 ---
 
