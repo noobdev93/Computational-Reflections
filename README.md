@@ -1,68 +1,71 @@
-# 🧠 Adaptive Learning Curriculum: Python Foundations through Cognitive Philosophy
+# 🧠 Adaptive Learning Curriculum: JavaScript Foundations through Cognitive Systems
 
-A multi-phase curriculum blending **Python programming**, **logic and computation**, and **philosophy of mind and technology** — designed for learners who value both technical fluency and reflective understanding.
+A multi-phase curriculum blending **JavaScript programming**, **logic and computation**, and **philosophy of systems and cognition** — designed for learners who value both technical fluency and reflective understanding.
 
 ---
 
 ## 📘 Overview
 
-This curriculum approaches programming as both a **technical practice** and a **philosophical discipline** — training computational thinking while exploring the cognitive, ethical, and aesthetic dimensions of systems, logic, and embodiment.
+This curriculum treats programming as both a **technical craft** and a **philosophical discipline** — training computational thinking while exploring the cognitive, systemic, and ethical dimensions of design, feedback, and adaptation.
 
-- **Language Focus:** Python (primary)
-- **Time Commitment:** <5 hours/week
-- **Core Lens:** Logic, Computation, and Cognitive Embodiment
-- **Secondary Themes:** Pragmatism, Process Philosophy, and Philosophy of Technology
+- **Language Focus:** JavaScript (primary), Python (introduced later)
+- **Environment:** Cursor IDE (VS Code compatible) + Node.js
+- **Time Commitment:** ~4 hours/week
+- **Core Lens:** Logic, Computation, and Cognitive Systems
+- **Secondary Themes:** Cybernetics, Systems Design, and Philosophy of Technology
 
 ---
 
 ## 🌱 Phase 0 – Computational Intuition & Conceptual Grounding
 
-> Before learning to code, learn to *see like a computer* and *reflect like a philosopher*.
+> Before learning to code, learn to *see like a system* and *reason like a computer.*
 
 **Goals:**
-- Build mental models of computation and information flow.
-- Understand the computer as a philosophical object — a medium of thought.
-- Cultivate comfort with the command line, file systems, and structured thinking.
+- Build mental models of computation and feedback.
+- Understand the computer as both a logical and embodied medium.
+- Cultivate comfort with the terminal, file systems, and structured thought.
 
 **Topics:**
-- What is computation? The philosophy of information.
-- How computers represent knowledge.
-- Feedback loops, input/output, and transformation.
-- The craft of code: parallels between making, attention, and care.
+- What is computation? The logic of information.
+- How systems represent and process knowledge.
+- Input/output, loops, and feedback.
+- The craft of code as attention and care.
 
 **Resources:**
-- Bret Victor – *Learnable Programming*
-- Matthew Crawford – *Shop Class as Soulcraft*
-- CS50 Week 0 – *What is Computer Science?*
-- Replit or Thonny IDE for interactive experimentation.
+- Bret Victor – *Learnable Programming*  
+- Matthew Crawford – *Shop Class as Soulcraft*  
+- CS50 Week 0 – *What is Computer Science?*  
+- [Node.js Crash Course (Traversy Media)](https://www.youtube.com/watch?v=fBNz5xF-Kx4)  
+- Cursor IDE + Node terminal for exploration
 
 **Project:**
-- Write a short reflection titled “How I Think a Computer Thinks.”
+- Write a short reflection titled **“How I Think a Computer Thinks.”**
 
 ---
 
-## 🧩 Phase 1 – Foundations of Programming and Computational Thinking
+## 🧩 Phase 1 – Logic & Language
 
-> Learn to think like a computer *and* a philosopher.
+> Learn how computers reason through syntax and flow.
 
 **Goals:**
-- Understand the terminal, syntax, and core logic structures.
-- Build habits of precision, experimentation, and reflection.
-- Develop awareness of how debugging mirrors philosophical inquiry.
+- Understand variables, logic, and basic data structures.
+- Develop precision through debugging and iteration.
+- Explore how control flow mirrors reasoning and decision-making.
 
 **Topics:**
-- Variables, Data Types, and Operators
-- Control Flow: `if`, `else`, `for`, and `while`
-- The Terminal as Dialogue
-- Debugging and the Philosophy of Error
+- Variables, Data Types, and Operators  
+- Control Flow: `if`, `else`, `switch`, `for`, `while`  
+- Functions, Scope, and Modular Thinking  
+- The Terminal as Dialogue  
+- Debugging as Reflective Inquiry  
 
 **Resources:**
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/)
-- John Vervaeke – *Relevance Realization*
+- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)  
+- Alan Turing – *Computing Machinery and Intelligence*  
+- Computerphile – *How Computers Think*
 
 **Project:**
-- Create a terminal-based interactive story exploring *choice, consequence, and uncertainty*.
+- Build a **Command-Line “Reasoning Engine”** — a Node.js tool that takes user input and returns outcomes based on logical rules.
 
 ---
 
@@ -71,101 +74,101 @@ This curriculum approaches programming as both a **technical practice** and a **
 > Move from thinking *in* code to thinking *with* code.
 
 **Goals:**
-- Learn to organize and structure data.
-- Practice abstraction through functions, classes, and modularity.
-- Reflect on how abstraction shapes thought and ethics.
+- Organize and transform data meaningfully.
+- Build composable systems using arrays, objects, and functions.
+- Reflect on abstraction as both a cognitive and ethical practice.
 
 **Topics:**
-- Functions, Arguments, and Scope
-- Lists, Dictionaries, and Sets
-- Object-Oriented Programming
-- Files, Data, and Persistence
-- Concept: *Abstraction as Epistemology*
+- Arrays, Objects, and JSON  
+- Functions and Closures  
+- File Operations (`fs` module)  
+- Recursion and Feedback  
+- Concept: *Abstraction as Thought*
 
 **Resources:**
-- [Think Python](https://greenteapress.com/wp/think-python-2e/)
-- [Real Python OOP Guide](https://realpython.com/python3-object-oriented-programming/)
-- Shusterman – *Somaesthetics and Embodied Knowing*
+- [Eloquent JavaScript](https://eloquentjavascript.net/)  
+- Herbert Simon – *The Sciences of the Artificial*  
+- [MDN: Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
 
 **Project:**
-- Build a simple ontology program modeling *beliefs*, *habits*, or *virtues* as objects with properties.
+- Create a **CLI “Habit Simulator”** that models adaptive routines through feedback loops.
 
 ---
 
-## 🧮 Phase 3 – Logic, Computation, and Cognitive Modeling
+## 🧮 Phase 3 – Logic, Systems, and Cognitive Modeling
 
-> Explore reasoning, learning, and error as intertwined processes.
+> Explore reasoning, learning, and self-correction.
 
 **Goals:**
-- Connect programming logic with philosophical reasoning.
-- Examine computation as a model of cognition.
-- Learn to code systems that adapt through feedback and error.
+- Connect logic to adaptive and systemic behavior.
+- Learn event-driven and asynchronous programming.
+- Reflect on feedback as a core principle of intelligence.
 
 **Topics:**
-- Boolean Logic and Predicate Reasoning
-- Algorithms and Complexity (conceptually)
-- Recursion and Self-Reference
-- Probability and Randomness
-- Concept: *Error as Information*
+- Boolean Logic and Conditional Reasoning  
+- Event Loops and Async Flow  
+- Randomness and Probability  
+- Error as Information  
+- Concept: *Feedback as Learning*
 
 **Resources:**
-- [MIT OCW: Computational Thinking](https://ocw.mit.edu/)
-- Peirce & Dewey – *Fallibilism and Inquiry*
-- Andy Clark – *Surfing Uncertainty*
+- Gregory Bateson – *Steps to an Ecology of Mind*  
+- Kurzgesagt – *Cybernetics: Feedback and Control*  
+- Norbert Wiener – *Cybernetics* (excerpts)
 
 **Project:**
-- Build a “Learning Through Error” simulator — a program that models cognitive adaptation.
+- Build an **“Adaptive Feedback Simulator”** that responds dynamically to user inputs.
 
 ---
 
-## 🔍 Phase 4 – Aesthetics, Systems, and Embodiment
+## 🔍 Phase 4 – Technology, Design, and Self-Organization
 
-> Bring the body, beauty, and system design into dialogue.
+> Learn how distributed systems coordinate without central control.
 
 **Goals:**
-- Integrate design, perception, and system ethics.
-- Explore embodied cognition and interface aesthetics.
-- Treat code as creative and ethical expression.
+- Understand architecture and emergent order.
+- Model consensus and DAO-inspired coordination.
+- Consider ethical design in decentralized systems.
 
 **Topics:**
-- Human-Computer Interaction (HCI)
-- Aesthetic Computing and Visualization
-- Embodied Cognition and Experience Design
-- Concept: *The Body as a Site of Knowing*
+- Asynchronous Programming (`async/await`, Promises)  
+- Event Systems and APIs  
+- Networks and Decentralization  
+- DAO Simulation Concepts  
+- Systems Ethics and Responsibility  
 
 **Resources:**
-- Shusterman – *Body Consciousness*
-- Bret Victor – *Inventing on Principle*
-- [Processing (Python mode)](https://py.processing.org/)
+- Stafford Beer – *Designing Freedom*  
+- Don Ihde – *Philosophy of Technology*  
+- Martin Kleppmann – *Designing Data-Intensive Applications*
 
 **Project:**
-- Create an interactive visualization that represents **learning through feedback** or **error transformation**.
+- Prototype a **“Consensus Simulator”** — a Node.js script where multiple agents coordinate decisions.
 
 ---
 
 ## 🧠 Phase 5 – Integration, Reflection, and Philosophy of Code
 
-> Unite technical skill and philosophical depth into a lived practice.
+> Unite technical skill and philosophical depth into a lived methodology.
 
 **Goals:**
-- Synthesize knowledge from all phases.
-- Articulate a personal philosophy of computation.
-- Reflect on ethics, embodiment, and creativity in system design.
+- Synthesize technical fluency with reflective understanding.
+- Explore computation as a medium for meaning and ethics.
+- Bridge JavaScript systems with Python simulations.
 
 **Topics:**
-- Process Philosophy and Adaptive Systems
-- Pragmatism and the Growth of Meaning
-- The Ethics of Automation
-- Philosophical Reflection: *Knowing Computationally*
+- Process Philosophy and Adaptive Systems  
+- Pragmatism and the Growth of Meaning  
+- The Ethics of Automation  
+- Concept: *Knowing Computationally*
 
 **Resources:**
-- Whitehead – *Process and Reality* (excerpts)
-- Dewey – *Experience and Nature*
-- Peterson – *Maps of Meaning*
-- Vervaeke – *Awakening from the Meaning Crisis*
+- Dewey – *Experience and Nature*  
+- Whitehead – *Process and Reality* (selections)  
+- Andy Clark – *Surfing Uncertainty*
 
 **Final Project:**
-- Write a reflective essay or build an interactive simulator modeling **ethical decision-making** and **learning through uncertainty**.
+- Build a **JS–Python hybrid system** or write a **“Philosophy of Code”** essay exploring ethics in adaptive technology.
 
 ---
 
@@ -173,64 +176,28 @@ This curriculum approaches programming as both a **technical practice** and a **
 
 > Philosophy becomes real when practiced.
 
-Throughout all phases, maintain a `/reflections` folder in your repo containing:
-- Weekly **Reflection Logs** (e.g., “What debugging taught me about humility.”)
-- Short **Philosophical Essays** on coding concepts.
-- Notes connecting cognitive science and embodiment to programming challenges.
+Maintain a `/reflections` folder in your repo containing:
+
+- Monthly **Concept Notes** (`01_concept.md`)  
+- **Experiment Logs** (`02_experiment.md`)  
+- **Integration Reflections** (`03_reflection.md`)  
+
+Templates are stored in `/templates` for reuse.
 
 **Prompts:**
-- “What does debugging teach about error as self-knowledge?”
-- “When I automate a process, what human judgment am I encoding?”
-- “Is abstraction a form of distance from reality, or a way of seeing it more clearly?”
+- “What does debugging teach about attention and care?”  
+- “When I automate a process, what judgment am I encoding?”  
+- “How does abstraction change the way I perceive systems?”
 
 ---
 
 ## 🧭 Progress Tracker
 
-| Phase | Focus | Status |
-|-------|--------|--------|
-| 🌱 0 | Computational Intuition | 🔵 In Progress |
-| 🧩 1 | Foundations of Programming | ⚪ Not Started |
-| ⚙️ 2 | Data & Abstraction | ⚪ Not Started |
-| 🧮 3 | Logic & Cognitive Modeling | ⚪ Not Started |
-| 🔍 4 | Aesthetics & Embodiment | ⚪ Not Started |
-| 🧠 5 | Integration & Reflection | ⚪ Not Started |
-
----
-
-## 🧰 Tools & Setup
-
-- **Editor:** VS Code / Cursor / PyCharm
-- **Environment:** Python 3.12+
-- **Version Control:** Git + GitHub
-- **Extensions:** Jupyter, Black Formatter, Pylint
-
-```bash
-# Example setup
-python3 -m venv venv
-source venv/bin/activate
-pip install jupyter black pylint
-```
-
----
-
-## 🌐 Guiding Philosophers & Cognitive Frameworks
-
-| Domain | Key Thinkers |
-|---------|---------------|
-| Pragmatism & Process | William James, John Dewey, Alfred North Whitehead |
-| Embodiment & Aesthetics | Richard Shusterman, Maurice Merleau-Ponty |
-| Cognitive Science | Andy Clark, Evan Thompson, Francisco Varela |
-| Philosophy of Technology | Don Ihde, Philip Agre, Hubert Dreyfus |
-| Meaning & Ethics | John Vervaeke, Jordan Peterson, Pierre Hadot |
-
----
-
-## 🧩 License
-
-MIT License © 2025 Justin Jones.  
-Use, remix, and expand with attribution.
-
----
-
-> “Programming is not just instruction — it’s reflection. Each error is an opportunity to refine not only the code, but the self.” – *Adaptive Philosophy of Computation*
+| Phase | Domain | Status |
+|-------|---------|--------|
+| 🌱 0 | Computational Intuition | ✅ Completed |
+| 🧩 1 | Logic & Language | 🔵 In Progress |
+| ⚙️ 2 | Data & Abstraction | ⚪ Pending |
+| 🧮 3 | Logic & Cognitive Modeling | ⚪ Pending |
+| 🔍 4 | Systems & Self-Organization | ⚪ Pending |
+| 🧠 5 | Integration & Reflection | ⚪ Pending |
